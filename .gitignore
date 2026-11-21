@@ -1,0 +1,12 @@
+# 编译中间产物
+bin/
+obj/
+dist/
+*.pdb
+
+# 临时诊断脚本（开发时用，不进仓库）
+_t.*
+_prev.*
+_probe.*
+*.log
+*-dump.txt
